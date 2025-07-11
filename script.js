@@ -22,7 +22,7 @@ fetch('menu.json')
       const ul = document.createElement('ul');
       cat.items.forEach(item => {
         const li = document.createElement('li');
-        li.innerHTML = `<span class="item-name">${item.name}</span> <span class="item-price">${item.price}</span> تومان`;
+      li.innerHTML = `<span class="item-name">${item.name}</span><span class="item-price">${item.price}</span>`;
         if (item.image) {
           const img = document.createElement('img');
           img.src = item.image;
