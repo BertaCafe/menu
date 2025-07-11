@@ -6,112 +6,112 @@
             "items": [
                 {
                     "name": "سینگل",
-                    "price": 59,
+                    "price": 65,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "دبل",
-                    "price": 67,
+                    "price": 73,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "آمریکانو",
-                    "price": 73,
+                    "price": 79,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "کاپوچینو",
-                    "price": 91,
+                    "price": 97,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "لته",
-                    "price": 91,
+                    "price": 97,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "هانی لته",
-                    "price": 96,
+                    "price": 101,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "موکا",
-                    "price": 93,
+                    "price": 97,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "ماکیاتو",
-                    "price": 91,
+                    "price": 97,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "فرنچ پرس",
-                    "price": 83,
+                    "price": 89,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "ترک",
-                    "price": 67,
+                    "price": 73,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "یونانی",
-                    "price": 73,
+                    "price": 79,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "کافه اوله",
-                    "price": 73,
-                    "image": "./images/0.png"
-                },
-                {
-                    "name": "آفوکاتو",
-                    "price": 87,
-                    "image": "./images/0.png"
-                },
-                {
-                    "name": "آیس آمریکانو",
-                    "price": 73,
-                    "image": "./images/0.png"
-                },
-                {
-                    "name": "آیس موکا",
-                    "price": 93,
-                    "image": "./images/0.png"
-                },
-                {
-                    "name": "آیس ماکیاتو",
-                    "price": 91,
-                    "image": "./images/0.png"
-                },
-                {
-                    "name": "آیس لته",
-                    "price": 91,
-                    "image": "./images/0.png"
-                },
-                {
-                    "name": "گلادیاتور",
-                    "price": 111,
-                    "image": "./images/0.png"
-                },
-                {
-                    "name": "فرانسه کژوال",
-                    "price": 69,
-                    "image": "./images/0.png"
-                },
-                {
-                    "name": "رد آی",
                     "price": 83,
                     "image": "./images/0.png"
                 },
                 {
+                    "name": "آفوکاتو",
+                    "price": 93,
+                    "image": "./images/0.png"
+                },
+                {
+                    "name": "آیس آمریکانو",
+                    "price": 79,
+                    "image": "./images/0.png"
+                },
+                {
+                    "name": "آیس موکا",
+                    "price": 97,
+                    "image": "./images/0.png"
+                },
+                {
+                    "name": "آیس ماکیاتو",
+                    "price": 97,
+                    "image": "./images/0.png"
+                },
+                {
+                    "name": "آیس لته",
+                    "price": 97,
+                    "image": "./images/0.png"
+                },
+                {
+                    "name": "گلادیاتور",
+                    "price": 121,
+                    "image": "./images/0.png"
+                },
+                {
+                    "name": "کافی دریپ",
+                    "price": 73,
+                    "image": "./images/0.png"
+                },
+                {
+                    "name": "رد آی",
+                    "price": 93,
+                    "image": "./images/0.png"
+                },
+                {
                     "name": "دبل شات",
-                    "price": 10,
+                    "price": "+15",
                     "image": "./images/0.png"
                 },
                 {
                     "name": "سیروپ اضافه",
-                    "price": 5,
+                    "price": "+10",
                     "image": "./images/0.png"
                 }
             ]
@@ -122,27 +122,27 @@
             "items": [
                 {
                     "name": "هات چاکلت",
-                    "price": 89,
-                    "image": "./images/0.png"
-                },
-                {
-                    "name": "وایت چاکلت",
-                    "price": 91,
-                    "image": "./images/0.png"
-                },
-                {
-                    "name": "پینات چاکلت",
-                    "price": 91,
-                    "image": "./images/0.png"
-                },
-                {
-                    "name": "اسپرسو چاکلت",
                     "price": 97,
                     "image": "./images/0.png"
                 },
                 {
+                    "name": "وایت چاکلت",
+                    "price": 97,
+                    "image": "./images/0.png"
+                },
+                {
+                    "name": "پینات چاکلت",
+                    "price": 97,
+                    "image": "./images/0.png"
+                },
+                {
+                    "name": "اسپرسو چاکلت",
+                    "price": 107,
+                    "image": "./images/0.png"
+                },
+                {
                     "name": "شیر نوتلا",
-                    "price": 103,
+                    "price": 113,
                     "image": "./images/0.png"
                 }
             ]
@@ -153,52 +153,52 @@
             "items": [
                 {
                     "name": "برتا",
-                    "price": 97,
+                    "price": 103,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "جینجر مینت",
-                    "price": 87,
+                    "price": 93,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "نعنا",
-                    "price": 73,
+                    "price": 79,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "آویشن",
-                    "price": 73,
+                    "price": 79,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "به لیمو",
-                    "price": 73,
+                    "price": 79,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "پونه",
-                    "price": 73,
+                    "price": 79,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "سیب دارچین",
-                    "price": 77,
-                    "image": "./images/0.png"
-                },
-                {
-                    "name": "سرما خوردگی",
-                    "price": 73,
-                    "image": "./images/0.png"
-                },
-                {
-                    "name": "گل گاو زبان",
                     "price": 83,
                     "image": "./images/0.png"
                 },
                 {
+                    "name": "سرما خوردگی",
+                    "price": 83,
+                    "image": "./images/0.png"
+                },
+                {
+                    "name": "گل گاو زبان",
+                    "price": 91,
+                    "image": "./images/0.png"
+                },
+                {
                     "name": "ترکیبی",
-                    "price": 77,
+                    "price": 83,
                     "image": "./images/0.png"
                 }
             ]
@@ -209,52 +209,52 @@
             "items": [
                 {
                     "name": "چای سیاه",
-                    "price": 47,
+                    "price": 49,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "چای لیمو",
-                    "price": 57,
+                    "price": 63,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "چای سبز",
-                    "price": 69,
+                    "price": 75,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "چای ترش",
-                    "price": 73,
-                    "image": "./images/0.png"
-                },
-                {
-                    "name": "چای دارچین",
                     "price": 79,
                     "image": "./images/0.png"
                 },
                 {
+                    "name": "چای دارچین",
+                    "price": 85,
+                    "image": "./images/0.png"
+                },
+                {
                     "name": "چای ماسالا",
-                    "price": 89,
+                    "price": 95,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "چای کوهی",
-                    "price": 87,
+                    "price": 93,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "چای لیمو عسل",
-                    "price": 83,
+                    "price": 89,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "چای کرک",
-                    "price": 93,
+                    "price": 99,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "چای انگلیسی",
-                    "price": 93,
+                    "price": 99,
                     "image": "./images/0.png"
                 }
             ]
@@ -265,37 +265,37 @@
             "items": [
                 {
                     "name": "لیموناد",
-                    "price": 87,
+                    "price": 93,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "موهیتو",
-                    "price": 89,
-                    "image": "./images/0.png"
-                },
-                {
-                    "name": "چری بری",
-                    "price": 91,
-                    "image": "./images/0.png"
-                },
-                {
-                    "name": "هاوایی",
-                    "price": 93,
-                    "image": "./images/0.png"
-                },
-                {
-                    "name": "استوایی",
-                    "price": 93,
-                    "image": "./images/0.png"
-                },
-                {
-                    "name": "پیناکولادا",
                     "price": 97,
                     "image": "./images/0.png"
                 },
                 {
-                    "name": "جامائیکا",
+                    "name": "چری بری",
+                    "price": 97,
+                    "image": "./images/0.png"
+                },
+                {
+                    "name": "هاوایی",
                     "price": 99,
+                    "image": "./images/0.png"
+                },
+                {
+                    "name": "استوایی",
+                    "price": 99,
+                    "image": "./images/0.png"
+                },
+                {
+                    "name": "پیناکولادا",
+                    "price": 103,
+                    "image": "./images/0.png"
+                },
+                {
+                    "name": "جامائیکا",
+                    "price": 107,
                     "image": "./images/0.png"
                 }
             ]
@@ -306,62 +306,62 @@
             "items": [
                 {
                     "name": "نسکافه",
-                    "price": 97,
+                    "price": 103,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "وانیل",
-                    "price": 99,
-                    "image": "./images/0.png"
-                },
-                {
-                    "name": "شکلات",
-                    "price": 97,
-                    "image": "./images/0.png"
-                },
-                {
-                    "name": "بیسکویت",
-                    "price": 99,
-                    "image": "./images/0.png"
-                },
-                {
-                    "name": "سرلاک",
-                    "price": 99,
-                    "image": "./images/0.png"
-                },
-                {
-                    "name": "موز شکلات",
-                    "price": 103,
-                    "image": "./images/0.png"
-                },
-                {
-                    "name": "موز وانیل",
-                    "price": 103,
-                    "image": "./images/0.png"
-                },
-                {
-                    "name": "اسپرسو",
-                    "price": 105,
-                    "image": "./images/0.png"
-                },
-                {
-                    "name": "بادام زمینی",
                     "price": 107,
                     "image": "./images/0.png"
                 },
                 {
-                    "name": "کیت کت",
+                    "name": "شکلات",
+                    "price": 103,
+                    "image": "./images/0.png"
+                },
+                {
+                    "name": "بیسکویت",
+                    "price": 107,
+                    "image": "./images/0.png"
+                },
+                {
+                    "name": "سرلاک",
+                    "price": 107,
+                    "image": "./images/0.png"
+                },
+                {
+                    "name": "موز شکلات",
+                    "price": 111,
+                    "image": "./images/0.png"
+                },
+                {
+                    "name": "موز وانیل",
+                    "price": 111,
+                    "image": "./images/0.png"
+                },
+                {
+                    "name": "اسپرسو",
+                    "price": 121,
+                    "image": "./images/0.png"
+                },
+                {
+                    "name": "بادام زمینی",
                     "price": 113,
+                    "image": "./images/0.png"
+                },
+                {
+                    "name": "کیت کت",
+                    "price": 119,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "اسنیکرز",
-                    "price": 113,
+                    "price": 119,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "توت فرنگی",
-                    "price": 117,
+                    "price": 123,
                     "image": "./images/0.png"
                 }
             ]
@@ -398,7 +398,7 @@
             "items": [
                 {
                     "name": "هات داگ",
-                    "price": 123,
+                    "price": 129,
                     "image": "./images/0.png"
                 },
                 {
@@ -408,32 +408,32 @@
                 },
                 {
                     "name": "چیپس و پنیر",
-                    "price": 109,
+                    "price": 119,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "سیب زمینی با سس آلفردو",
-                    "price": 149,
+                    "price": 159,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "چیزبرگر",
-                    "price": 132,
+                    "price": 137,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "تست پپرونی",
-                    "price": 115,
+                    "price": 121,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "تست بیکن",
-                    "price": 132,
+                    "price": 139,
                     "image": "./images/0.png"
                 },
                 {
                     "name": "پاستا آلفردو",
-                    "price": 163,
+                    "price": 169,
                     "image": "./images/0.png"
                 }
             ]
